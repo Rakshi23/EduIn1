@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "759874589504",
+    "firebase_url": "https://eduin-swish.firebaseio.com",
+    "project_id": "eduin-swish",
+    "storage_bucket": "eduin-swish.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759874589504:android:d07758282af909cd",
+        "android_client_info": {
+          "package_name": "com.swish.eduin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759874589504-fcaonpltddsiqvpc83vmb02nuorike7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIBvw64Zr0BYHzN5yx7_G4OuZ8DPbfZxw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
